@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my channel!!
 
-You can use the [editor on GitHub](https://github.com/bolt926/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Link to my youtube: [bolt926(https://www.youtube.com/channel/UCD7DQLrj_E_ygPTR5ieD0cQ/featured)]
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
